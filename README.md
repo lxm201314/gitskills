@@ -1,3 +1,2 @@
 # gitskills
-Creating a new branch is quickly and simplely:
-abctest
+Creating a new branch is quickly and sim;
